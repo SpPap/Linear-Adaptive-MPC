@@ -1,8 +1,9 @@
 # Linear-Adaptive-MPC
-
+<p align="justify ">
 This repository is part of my diploma thesis titled "Development of Model Predictive Control (MPC) schemes for unmanned aerial vehicles using neural networks". 
 The current project focuses on MPC controller design for controlling the altitude dynamics of the quadrotor as well as the x-y plane position. As far, as the orientation dynamics are concerned, custom discrete PID (DPID) controllers are used. The project is fully coded and simulated in MATLAB 2022b. Also, the optimization problem is solved using the SQP solver and the
 full-plant dynamics of the quad were solved using Runge-Kutta (4,5) (ode45 solver) Finally, the benchmark trajectory for evaluating the controller's performance is a 3D helix.
+text</p>
 
 ## Control Scheme
 ![controlScheme_schematic](https://github.com/SpPap/Linear-Adaptive-MPC/assets/52887728/64aae744-1b0a-493a-90f3-915e47a53148)
