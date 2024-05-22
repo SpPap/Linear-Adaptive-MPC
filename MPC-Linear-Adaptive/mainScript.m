@@ -1,4 +1,4 @@
-% Model Predicted Controller using Linear Adaptive Prediction model
+% Model Predictive Controller using Linear Adaptive Prediction model
 % MATLAB main script
 %
 %
