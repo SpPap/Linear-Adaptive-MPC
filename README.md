@@ -5,6 +5,10 @@ The current project focuses on MPC controller design for controlling the altitud
 full-plant dynamics of the quad were solved using Runge-Kutta (4,5) (ode45 solver) Finally, the benchmark trajectory for evaluating the controller's performance is a 3D helix.
 text</p>
 
+#### Notes
+If you use this software please cite it as below (APA Style): </br>
+ Spiros, P. (2024). Linear Adaptive MPC for Unmanned Aerial Vehicles Position Control. https://github.com/SpPap/Linear-Adaptive-MPC
+
 ## Control Scheme
 ![controlScheme_schematic](https://github.com/SpPap/Linear-Adaptive-MPC/assets/52887728/64aae744-1b0a-493a-90f3-915e47a53148)
 
