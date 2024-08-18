@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Spiros"
-  given-names: "Papadopoulos"
+- family-names: "Papadopoulos"
+  given-names: "Spyridon"
 title: "Linear Adaptive MPC for Unmanned Aerial Vehicles Position Control"
 version: 1.0.0
 date-released: 2024-05-22
