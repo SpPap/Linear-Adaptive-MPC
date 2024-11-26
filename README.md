@@ -6,10 +6,12 @@ full-plant dynamics of the quad were solved using ode15s solver. Finally, the be
 text</p>
 
 #### Notes 
-* If you use this software please cite it as below (APA Style): </br>
-<em> S. Papadopoulos, “Linear Adaptive MPC Scheme for Unmanned Aerial Vehicles Trajectory Tracking Control” 2024. https://github.com/SpPap/Linear-Adaptive-MPC</em>
+* If you use this software please cite it as below : </br>
+<em> S. Papadopoulos, “Linear Adaptive MPC Scheme for Unmanned Aerial Vehicles Trajectory Tracking Control”, 2024. https://github.com/SpPap/Linear-Adaptive-MPC</em>
 
-* Full-text in english available soon 
+* Full-text in english available soon at http://dx.doi.org/10.26265/polynoe-7607
+  (S. Papadopoulos, “Development of model predictive control schemes for unmanned aerial vehicles using neural networks”, Diploma Thesis, University of West Attica, Athens, Greece, 2024)
+  
 
 ## Control Scheme
 ![controlScheme_schematic](https://github.com/SpPap/Linear-Adaptive-MPC/assets/52887728/64aae744-1b0a-493a-90f3-915e47a53148)
